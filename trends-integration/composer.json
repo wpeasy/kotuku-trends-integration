@@ -1,0 +1,16 @@
+{
+    "name": "alan.blair/trends-integration",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "AlanBlair\\TrendsIntegration\\": "src/AlanBlair/TrendsIntegration"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alan.Blair",
+            "email": "alan@wpget.net"
+        }
+    ],
+    "require": {}
+}
